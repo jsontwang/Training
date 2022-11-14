@@ -1,0 +1,47 @@
+.cat{
+    text-indent: 50px;
+    text-decoration: underline;
+    font-weight: bold;
+    
+    
+}
+
+#history{
+    font-weight: bold;
+}
+
+#media{
+    text-align: center;
+    font-weight: bold;
+    font-size: large;
+}
+
+#catImage{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px; ;
+    width: 500px;
+
+}
+#lionDifference{
+    text-align: center;
+    background-color: white;
+    color: red;
+    font-weight: bold;
+    border-style: solid;
+    border-color: red;
+    
+}
+
+table, th, td {
+    border: 1px solid black;
+  }
+
+#lionImage{
+    display: block;
+    border-color: red;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid red;
+}
